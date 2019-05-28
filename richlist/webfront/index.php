@@ -8,7 +8,7 @@
     Document Title
     =============================================
     -->
-    <title>Ether1 Rich List</title>
+    <title>Xerom Rich List</title>
     <!--      
     =============================================
     
@@ -61,7 +61,7 @@
               <tr>
                   <th>id</th>
                   <th>Address</th>
-                  <th>Balance (ETHO))</th>
+                  <th>Balance (XERO))</th>
                   <th>% of Coins</th>
                   <th>First In</th>
                   <th>Last In</th>
